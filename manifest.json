@@ -1,0 +1,24 @@
+{
+  "name": "KitchenSurvey",
+  "short_name": "KitchenSurvey",
+  "description": "Küchenaufmaß-App: Grundrisse laden, Geräte fotografieren und platzieren",
+  "start_url": "/kitchen-survey-app/",
+  "scope": "/kitchen-survey-app/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1E1E1E",
+  "theme_color": "#1E1E1E",
+  "icons": [
+    {
+      "src": "/kitchen-survey-app/favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/kitchen-survey-app/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
